@@ -1,0 +1,37 @@
+C:\Users\ivana\source\repos\Arr\bin\Debug\Arr.exe.config
+C:\Users\ivana\source\repos\Arr\bin\Debug\Arr.exe
+C:\Users\ivana\source\repos\Arr\bin\Debug\Arr.pdb
+C:\Users\ivana\source\repos\Arr\obj\Debug\Arr.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\Arr\obj\Debug\Arr.Form1.resources
+C:\Users\ivana\source\repos\Arr\obj\Debug\Arr.Properties.Resources.resources
+C:\Users\ivana\source\repos\Arr\obj\Debug\Arr.csproj.GenerateResource.cache
+C:\Users\ivana\source\repos\Arr\obj\Debug\Arr.exe
+C:\Users\ivana\source\repos\Arr\obj\Debug\Arr.pdb
+E:\Desktop\Arr\bin\Debug\Arr.exe.config
+E:\Desktop\Arr\bin\Debug\Arr.exe
+E:\Desktop\Arr\bin\Debug\Arr.pdb
+E:\Desktop\Arr\obj\Debug\Arr.csprojAssemblyReference.cache
+E:\Desktop\Arr\obj\Debug\Arr.Form1.resources
+E:\Desktop\Arr\obj\Debug\Arr.Properties.Resources.resources
+E:\Desktop\Arr\obj\Debug\Arr.csproj.GenerateResource.cache
+E:\Desktop\Arr\obj\Debug\Arr.csproj.CoreCompileInputs.cache
+E:\Desktop\Arr\obj\Debug\Arr.exe
+E:\Desktop\Arr\obj\Debug\Arr.pdb
+E:\Desktop\2\MyProjects\C#\Z\Arr\bin\Debug\Arr.exe.config
+E:\Desktop\2\MyProjects\C#\Z\Arr\bin\Debug\Arr.exe
+E:\Desktop\2\MyProjects\C#\Z\Arr\bin\Debug\Arr.pdb
+E:\Desktop\2\MyProjects\C#\Z\Arr\obj\Debug\Arr.csprojAssemblyReference.cache
+E:\Desktop\2\MyProjects\C#\Z\Arr\obj\Debug\Arr.Form1.resources
+E:\Desktop\2\MyProjects\C#\Z\Arr\obj\Debug\Arr.Properties.Resources.resources
+E:\Desktop\2\MyProjects\C#\Z\Arr\obj\Debug\Arr.csproj.GenerateResource.cache
+E:\Desktop\2\MyProjects\C#\Z\Arr\obj\Debug\Arr.exe
+E:\Desktop\2\MyProjects\C#\Z\Arr\obj\Debug\Arr.pdb
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\bin\Debug\Arr.exe.config
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\bin\Debug\Arr.exe
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\bin\Debug\Arr.pdb
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\obj\Debug\Arr.csprojAssemblyReference.cache
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\obj\Debug\Arr.Form1.resources
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\obj\Debug\Arr.Properties.Resources.resources
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\obj\Debug\Arr.csproj.GenerateResource.cache
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\obj\Debug\Arr.exe
+E:\Desktop\2\GitProjects\C#\0. set_figure_enhanced\obj\Debug\Arr.pdb
